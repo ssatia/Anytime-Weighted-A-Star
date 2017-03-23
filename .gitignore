@@ -1,0 +1,5 @@
+# Ignore executables
+*.o
+
+# Ignore test folder
+test
